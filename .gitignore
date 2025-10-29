@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+.venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# OS and editor files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
